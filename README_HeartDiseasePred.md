@@ -1,4 +1,4 @@
-Heart Disease Prediction :
+Heart Disease Prediction:
 
 A machine learning project aimed at predicting the likelihood of heart disease in patients based on clinical parameters using the HeartDiseasePred dataset.
 Heart disease remains a leading cause of death worldwide. Early detection allows for effective treatment or lifestyle changes to reduce risks. 
